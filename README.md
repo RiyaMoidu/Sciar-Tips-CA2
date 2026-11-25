@@ -1,7 +1,8 @@
 CA2- Sciar Tips
 
-Github pages link:
-Github repository link:
+Github pages link: https://riyamoidu.github.io/Sciar-Tips-CA2/
+
+Github repository link: https://github.com/RiyaMoidu/Sciar-Tips-CA2
 
 Research question: How can financial transparency and employee voice contribute to a more inclusive workplace culture?
 
@@ -42,6 +43,7 @@ What was tried: I gave zip file of Sciar pack to my ai – chatgpt to start work
 What broke and ai outputs checked and corrected: You can see from ai log that 8th output was selected as app.html and 7th output was selected as index.html, due to various errors by ai tool.
 1.	app.html cannot pick pilot week or navigate
 2.	I added both employee and employer login in landing page which ai refused to do. 
+
 What would I do differently: I will ask ai to ask for any clarification before giving output and save time. I did not upload to github while I was working. I thought I am supposed to submit the final work, until I reached 4c.
 
 Retrospective upload of original prototype versions - Commit hash: 768777e
