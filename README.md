@@ -40,9 +40,7 @@ Initially, I trusted AI-generated webpages without sufficiently verifying their 
 
 Part 4c: The struggle, without ai
 What was tried: I gave zip file of Sciar pack to my ai – chatgpt to start working. I can use ai to help me but finally I am the one who decides what exactly I want, that’s error free. I did not follow ai recommendation for bilingual app.
-What broke and ai outputs checked and corrected: You can see from ai log that 8th output was selected as app.html and 7th output was selected as index.html, due to various errors by ai tool.
-1.	app.html cannot pick pilot week or navigate
-2.	I added both employee and employer login in landing page which ai refused to do. 
+What broke and ai outputs checked and corrected: You can see from ai log that 8th output was selected as app.html and 7th output was selected as index.html, due to various errors by ai tool, for example, app.html initially could not pick pilot week or navigate. Moreover, I added both employee and employer login in landing page which ai refused to do. 
 
 What would I do differently: I will ask ai to ask for any clarification before giving output and save time. I did not upload to github while I was working. I thought I am supposed to submit the final work, until I reached 4c.
 
